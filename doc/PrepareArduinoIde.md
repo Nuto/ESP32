@@ -8,3 +8,7 @@ Add `Additional Boards Manager URLs` -> https://dl.espressif.com/dl/package_esp3
 
 ![Prepare Arduino IDE Step 3](/doc/PrepareArduinoIdeStep3.png)<br>
 Select the `OLIMEX ESP32-EVB` Board
+
+### Documentation
+
+[Arduino core for the ESP32](https://github.com/espressif/arduino-esp32)
